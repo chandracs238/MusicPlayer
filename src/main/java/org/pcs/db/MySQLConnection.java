@@ -1,4 +1,4 @@
-package org.pcs.localDb;
+package org.pcs.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package org.pcs.localDb;
+package org.pcs.db;
 
 import java.io.IOException;
 import java.io.InputStream;
