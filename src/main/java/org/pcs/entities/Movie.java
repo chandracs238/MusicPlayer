@@ -1,4 +1,4 @@
 package org.pcs.entities;
 
-public class Song {
+public class Movie {
 }
